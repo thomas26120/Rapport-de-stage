@@ -9,7 +9,7 @@
 
 	<body>
 	
-		 <TT >login recus:</TT> 
+		 <TT >User:</TT> 
 		<?php 
 		
 			print $_GET['pseudo'];
